@@ -11,5 +11,12 @@ Construindo Arquiteturas no Azure<Br>
 Ver globo de regios e pares
 Criar grupo de recurso
 Configurações e Logs
-Redes virtuais
+Redes virtuais<br><br>
+
+Criar maquina virtual<br>
+Selecionar a escalabilidade<br>
+Configurar a VM<br>
+East US 2 mais barata<br>
+SO excluir com VM<br>
+
 
