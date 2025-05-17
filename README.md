@@ -19,4 +19,8 @@ Configurar a VM<br>
 East US 2 mais barata<br>
 SO excluir com VM<br>
 
+<h2>Análise de Sentimentos com Language Studio no Azure AI</h2>
+Microsoft Azure AI Language Studio<br>
+Avaliar sentimentos<br>
+
 
